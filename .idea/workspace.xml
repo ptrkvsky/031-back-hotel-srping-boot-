@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e9b1f1-2667-4421-9c12-295c7d24a004" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hotelSDZ/hotelSDZ/service/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hotelSDZ/hotelSDZ/service/HotelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hotelSDZ/hotelSDZ/web/controller/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hotelSDZ/hotelSDZ/web/controller/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front" beforeDir="false" afterPath="$PROJECT_DIR$/../front" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aqltqWqVTWE7rCd3cZz3LAGYjm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HotelSdzApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hotelSDZ.hotelSDZ.HotelSdzApplication" />
+      <module name="hotelSDZ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hotelSDZ.hotelSDZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HotelSdzApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e9b1f1-2667-4421-9c12-295c7d24a004" name="Default Changelist" comment="" />
+      <created>1587471221881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587471221881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587471251638">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="425" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1587471251638" />
+    <state x="700" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589266709710">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="700" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266709710" />
+    <state x="749" y="287" key="FileChooserDialogImpl" timestamp="1589266737724">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="749" y="287" key="FileChooserDialogImpl/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266737724" />
+    <state width="1846" height="255" key="GridCell.Tab.0.bottom" timestamp="1589266825839">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1846" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266825839" />
+    <state width="1846" height="255" key="GridCell.Tab.0.center" timestamp="1589266825839">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1846" height="255" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266825839" />
+    <state width="1846" height="255" key="GridCell.Tab.0.left" timestamp="1589266825839">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1846" height="255" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266825839" />
+    <state width="1846" height="255" key="GridCell.Tab.0.right" timestamp="1589266825839">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1846" height="255" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266825839" />
+    <state x="450" y="107" key="SettingsEditor" timestamp="1589266819052">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="450" y="107" key="SettingsEditor/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266819052" />
+    <state x="670" y="423" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587561707559">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="670" y="423" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1587561707559" />
+    <state x="342" y="233" key="new project wizard" timestamp="1589266419519">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="342" y="233" key="new project wizard/0.0.1920.1044/1920.0.1920.1080@0.0.1920.1044" timestamp="1589266419519" />
+  </component>
+</project>
