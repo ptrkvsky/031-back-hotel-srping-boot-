@@ -11,6 +11,13 @@
     <groupId>com.hotelSDZ</groupId>
     <artifactId>hotelSDZ</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <configuration>
+        <archive>
+            <manifest>
+                <mainClass>com.hotelSDZ.hotelSDZ.HotelSdzApplication</mainClass>
+            </manifest>
+        </archive>
+    </configuration>
     <name>hotelSDZ</name>
     <description>Demo project for Spring Boot</description>
 
