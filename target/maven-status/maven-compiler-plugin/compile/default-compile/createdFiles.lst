@@ -1,0 +1,17 @@
+com/hotelSDZ/hotelSDZ/utils/Mapper.class
+com/hotelSDZ/hotelSDZ/dao/TypeHotelDao.class
+com/hotelSDZ/hotelSDZ/service/InterfaceHotelService.class
+com/hotelSDZ/hotelSDZ/model/Chambre.class
+com/hotelSDZ/hotelSDZ/model/Hotel.class
+com/hotelSDZ/hotelSDZ/HotelSdzApplication.class
+com/hotelSDZ/hotelSDZ/dao/CategorieDao.class
+com/hotelSDZ/hotelSDZ/web/controller/CategorieController.class
+com/hotelSDZ/hotelSDZ/web/controller/FilterController.class
+com/hotelSDZ/hotelSDZ/web/controller/HotelController.class
+com/hotelSDZ/hotelSDZ/dto/HotelDto.class
+com/hotelSDZ/hotelSDZ/model/Categorie.class
+com/hotelSDZ/hotelSDZ/web/controller/TypeHotelController.class
+com/hotelSDZ/hotelSDZ/model/Filter.class
+com/hotelSDZ/hotelSDZ/service/HotelService.class
+com/hotelSDZ/hotelSDZ/dao/HotelDao.class
+com/hotelSDZ/hotelSDZ/model/TypeHotel.class
