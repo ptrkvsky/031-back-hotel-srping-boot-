@@ -7,31 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6e9b1f1-2667-4421-9c12-295c7d24a004" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hotelSDZ_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/hotelSDZ_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hotelSDZ_jar2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotelSDZ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hotelSDZ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/HotelSdzApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/dao/CategorieDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/dao/HotelDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/dao/TypeHotelDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/dto/HotelDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/model/Categorie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/model/Chambre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/model/Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/model/Hotel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/model/TypeHotel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/service/HotelService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/service/InterfaceHotelService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/utils/Mapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/web/controller/CategorieController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/web/controller/FilterController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/web/controller/HotelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/com/hotelSDZ/hotelSDZ/web/controller/TypeHotelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar/hotelSDZ.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/hotelSDZ_jar2/hotelSDZ.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../front" beforeDir="false" afterPath="$PROJECT_DIR$/../front" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
