@@ -8,9 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6e9b1f1-2667-4421-9c12-295c7d24a004" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hotelSDZ/hotelSDZ/web/controller/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hotelSDZ/hotelSDZ/web/controller/HotelController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hotelSDZ-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/hotelSDZ-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hotelSDZ-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/hotelSDZ-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front" beforeDir="false" afterPath="$PROJECT_DIR$/../front" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
