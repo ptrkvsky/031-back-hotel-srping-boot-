@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
 
-@CrossOrigin(origins = "http://178.62.113.122")
+@CrossOrigin(origins = "http://kovsky-hotel-app.ovh")
 @RestController
 public class HotelController {
     @Autowired

@@ -21,7 +21,7 @@ public class FilterController {
 
   // Post filter post man
   @Autowired HotelDao hotelDao;
-  @CrossOrigin(origins = "http://localhost:3000")
+  @CrossOrigin(origins = "http://kovsky-hotel-app.ovh/")
   @PostMapping(value = "/filter")
   public MappingJacksonValue filter(@RequestBody Map<String, ?> input) {
     PageRequest limit = PageRequest.of(0, 10);
